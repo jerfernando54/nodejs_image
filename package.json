@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_docker",
+  "version": "1.0.0",
+  "description": "Este es un proyecto inicial de nodejs con dockers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerfernando54/nodejs_image.git"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "express",
+    "bootstrap",
+    "sql"
+  ],
+  "author": "José Fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerfernando54/nodejs_image/issues"
+  },
+  "homepage": "https://github.com/jerfernando54/nodejs_image#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
